@@ -1,6 +1,6 @@
 {
     "name": "Enchantments_Balancer_Pack",
-    "version_number": "0.0.1",
+    "version_number": "0.0.2",
     "website_url": "https://github.com/GymMed/Outward-Enchantments-Balancer-Pack",
     "description": "Provides access to enchantments early in the game but makes it harder in later stages of the game.",
     "dependencies": [

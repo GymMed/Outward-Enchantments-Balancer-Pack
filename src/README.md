@@ -7,11 +7,11 @@
 </div>
 
 <div align="center">
-	<a href="https://thunderstore.io/c/outward/p/GymMed/Enchantments-Balancer-Pack/">
-		<img src="https://img.shields.io/thunderstore/dt/GymMed/Enchantments-Balancer-Pack" alt="Thunderstore Downloads">
+	<a href="https://thunderstore.io/c/outward/p/GymMed/Enchantments_Balancer_Pack/">
+		<img src="https://img.shields.io/thunderstore/dt/GymMed/Enchantments_Balancer_Pack" alt="Thunderstore Downloads">
 	</a>
 	<a href="https://github.com/GymMed/Outward-Enchantments-Balancer-Pack/releases/latest">
-		<img src="https://img.shields.io/thunderstore/v/GymMed/Enchantments-Balancer-Pack" alt="Thunderstore Version">
+		<img src="https://img.shields.io/thunderstore/v/GymMed/Enchantments_Balancer_Pack" alt="Thunderstore Version">
 	</a>
 	<a href="https://github.com/GymMed/Outward-Mods-Communicator/releases/latest">
 		<img src="https://img.shields.io/badge/Mods_Communicator-v1.2.0-D4BD00" alt="Min Mods Communicator Version">
