@@ -25,10 +25,11 @@ the experience balanced and making late-game progression more challenging.
     <summary>Deeper Explanation</summary>
 The <i>Soroboreans</i> DLC adds the enchanting system, but most of the
 materials needed for enchanting are found in the <b>Antique Plateau</b>, a
-location many players only reach after finishing the main game. The Definitive
-Edition attempted to spread enchanting materials across more zones, but in my
-opinion, it didn’t fully succeed—likely because the developers didn’t have
-enough time to balance the loot tables properly.
+location many players only reach after finishing the main game. 
+
+The Definitive Edition attempted to spread enchanting materials across more
+zones, but in my opinion, it didn’t fully succeed—likely because the developers
+didn’t have enough time to balance the loot tables properly.
 
 This mod aims to deliver what the enchanting system should have felt like. It
 integrates early-game enchanting in a natural, balanced way without
